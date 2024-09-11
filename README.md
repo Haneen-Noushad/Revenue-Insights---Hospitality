@@ -10,6 +10,7 @@ Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 Solution:
+
 1.Gather the Data
 2.Data Transformation in Power Query
 3.Build Relationships

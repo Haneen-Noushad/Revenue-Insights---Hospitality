@@ -14,8 +14,8 @@ Solution:
 1.Gather the Data  <br />
 2.Data Transformation in Power Query  <br />
 3.Build Relationships  <br />
-3.DAX Functions  <br />
-4.Create Dashboard  <br />
+4.DAX Functions  <br />
+5.Create Dashboard  <br />
 
 - Occupancy means total successful bookings happened to the total rooms available
 - RevPAR(Revenue Per Available Room): RevPAR represents the revenue generated per available room, whether or not they are occupied. RevPAR helps hotels measure their revenue generating performance to accurately price rooms. RevPAR can help hotels measure themselves against other properties or brands.
